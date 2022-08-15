@@ -1,0 +1,4 @@
+Python (requires pandas):
+
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/globaldothealth/monkeypox/main/latest.csv")
