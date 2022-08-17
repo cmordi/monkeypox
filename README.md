@@ -18,7 +18,7 @@ The first human case of monkeypox was recorded in 1970. Prior to the 2022 outbre
 - Countries affected (ranked)
 - Common symptoms 
 - Age distribution
-- Predictive (dataset may be to small to run a proper ML algo)
+- Predictive (dataset may be too small to run a proper ML algo)
 
 
 
