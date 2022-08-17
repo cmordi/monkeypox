@@ -12,12 +12,13 @@ The first human case of monkeypox was recorded in 1970. Prior to the 2022 outbre
 1. The dataset will be scraped and loaded from a reliable and up to date source from github
 2. The data will be cleaned. This means that I will attempt to remove the missing values, outliers and rows. Possibly reformat the data as well
 
-## Some of the analysis that is being conducted
+## A few of the analysis that is being conducted
 
 - Number of cases 
 - Countries affected (ranked)
 - Common symptoms 
 - Age distribution
+- Predictive (dataset may be to small to run a proper ML algo)
 
 
 
